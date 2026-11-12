@@ -24,8 +24,3 @@ practice/
 ├── go.mod
 └── make-file
 ```
-
-## Screenshots
-
-Execution screenshots are available in the screenshots directory.
-
