@@ -1,4 +1,5 @@
 #!/bin/bash
+#Teryn Guzman
 
 # Check if exactly two arguments were provided
 if [ "$#" -ne 2 ]; then
